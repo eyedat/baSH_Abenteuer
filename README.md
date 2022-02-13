@@ -29,7 +29,8 @@ Passwort:<br>
 ```
 xyzzy
 ```
-<img src="test.png" width="539" height="550" alt="">
+<img src="bild2.png" width="516" height="423" alt="">
+<img src="bild1.png" width="539" height="550" alt="">
 
 NB - Wenn Sie ein Windows-Benutzer sind, können Sie trotzdem am Spaß teilnehmen. Laden Sie [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) herunter und verwenden Sie die obigen Anmeldeinformationen. Einfach!
 
