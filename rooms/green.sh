@@ -24,7 +24,7 @@ while true; do
     read -p "> " nsewuh
     case $nsewuh in
         n ) echo "Das Grün ist hier etwas intensiver. Hoppla." ;;
-        s ) echo "Such green. Much bad. Go back. SCHWUPP." ;;
+        s ) echo "Suche Grün. sehr schlecht. gehe zurück. Zügig." ;;
         o ) ./mainroom.sh
             exit ;;
         w ) echo "Du versuchst, nach Westen zu gehen, aber ALLES, WAS DU SEHST, IST GRÜN." ;;
