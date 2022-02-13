@@ -84,6 +84,11 @@ Das Skript prüft, ob die uuidgen-Laufzeitumgebung installiert ist, und ergreift
 ```bash:
 sudo apt-get install uuid-runtime
 ```
+oder nutze das install.sh script nachdem die Rauten entfernt wurden bei bedarf.
+```bash:
+$sh install.sh
+```
+
 
 Beachten Sie, dass uuidgen mit OS X und OS X Server geliefert wird, aber in einigen Linux-Distributionen nicht standardmäßig installiert ist.
 
