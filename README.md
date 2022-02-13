@@ -107,7 +107,27 @@ Zukünftige Versionen dieses Frameworks sind geplant, mit massiven Erweiterungen
 
 Dieser Code wird unter der MIT-Lizenz veröffentlicht. Weitere Informationen dazu, was dies bedeutet und wie Zuschreibungen vorgenommen werden, finden Sie in der LIZENZ-Datei.
 
-
+        ##############  ##########  ##############        
+        ##          ##  ##  ##  ##  ##          ##        
+        ##  ######  ##  ##          ##  ######  ##        
+        ##  ######  ##  ########    ##  ######  ##        
+        ##  ######  ##          ##  ##  ######  ##        
+        ##          ##  ####  ##    ##          ##        
+        ##############  ##  ##  ##  ##############        
+                          ########                        
+        ####    ######    ##  ##      ##  ########        
+        ##########    ######  ####  ##  ######            
+          ############  ########        ##    ##          
+            ##  ####  ##    ##    ##  ##      ####        
+        ##      ##  ##          ####  ####    ####        
+                        ######  ##  ##  ######            
+        ##############          ####  ######  ##          
+        ##          ##  ##########    ####    ##          
+        ##  ######  ##  ##  ####  ######      ##          
+        ##  ######  ##      ######    ############        
+        ##  ######  ##    ######    ##  ##                
+        ##          ##  ####      ######                  
+        ##############  ##      ##########      ##       
 
 Acknowledgements
 ----------------
